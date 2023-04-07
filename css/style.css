@@ -151,10 +151,10 @@ header nav a.btn:hover {
   color: #fff;
   font-weight: bold;
   border-radius: 5px;
-  background-color: var(--main-color);
+  background: linear-gradient(#20a36c, #52e5a7);
 }
 .landing .container .text .btngrp a.btn:nth-child(2) {
-  background-color: transparent;
+  background: transparent;
   color: var(--text-color);
   border: 1px solid #888;
 }
