@@ -512,6 +512,16 @@ header nav .x-mark {
   .read h2 {
     font-size: 18px;
   }
+  .read .search {
+  width: 200px;
+  border: 1px solid var(--main-color);
+  border-radius: 5px;
+  padding: 10px;
+  margin: 50px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
   .read .container .box .info h3 {
     font-size: 18px;
   }
