@@ -310,6 +310,9 @@ header nav .x-mark {
   .about .container {
     flex-direction: column;
   }
+
+.about .container .text p{
+Text-align:center}
 }
 /*  end about us styling */
 /*  start our blog styling */
