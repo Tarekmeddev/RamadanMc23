@@ -513,7 +513,7 @@ header nav .x-mark {
     font-size: 18px;
   }
   .read .search {
-  width: 200px;
+  width: fit-content;
   border: 1px solid var(--main-color);
   border-radius: 5px;
   padding: 10px;
